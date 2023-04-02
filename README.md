@@ -81,8 +81,8 @@ plt.show()
 ![OUTPUT](./sun4.png)
 
 
-## Histogram Equalization of Grayscale Image :
 
+## Histogram Equalization of Grayscale Image :
 
 ![OUTPUT](./sun5.png)
 
